@@ -11,9 +11,9 @@ title                    : "Xinyi Ni / Homepage"
 title_separator          : "-"
 name                     : &name "Xinyi Ni"
 description              : &description "Forth year PhD student at University of California"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nxyni.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://nxyni.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification :nixinyi1997@gmail.com
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xinyi Ni"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "A forth year PhD student"
+  location         : "United States"
+  employer         : "UC Davis"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xinyi-Ni-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nxyni"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : "replacethistwitterhandle"
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
