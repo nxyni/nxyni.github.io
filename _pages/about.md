@@ -17,7 +17,6 @@ Publications
 ======
 1. Ni, Xinyi, and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2022.
 2. Ni, Xinyi, and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." 2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022.
-3. Ni, Xinyi, and Lifeng Lai. "EVaR optimization for risk-sensitive reinforcement learning." IEEE Transactions on Information Theory (2022).
 
 Academic Activities
 ======
