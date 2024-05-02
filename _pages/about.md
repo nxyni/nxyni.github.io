@@ -8,17 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Xinyi Ni is currently a Ph.D. candidate at UC Davis with guidance from Professor Lifeng Lai. Her current research focuses on proposing risk-sensitive reinforcement learning algorithms and analyzing the convergence as well as sample complexity. She's also interested in developing robust algorithms for reinforcement learning against attack, model uncertainty, etc.
+I am currently a Ph.D. candidate at UC Davis with guidance from Professor Lifeng Lai. My current research focuses on proposing risk-sensitive reinforcement learning algorithms and analyzing the convergence as well as sample complexity. She's also interested in developing robust algorithms for reinforcement learning against attack, model uncertainty, etc.
 
-Xinyi Ni received the B.E. degree in Information Science and Electrical Engineering from Zhejiang University, Hangzhou, China in 2019. 
+I received the B.E. degree in Information Engineering from Zhejiang University, Hangzhou, China in 2019. During my undergraduate study, I was interested in machine learning applications and I involved in projects, such as clinical dianosis and autonomous driving.
 
 
 Publications
 ======
-1. Ni, Xinyi, and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2022.
-2. Ni, Xinyi, and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." 2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022.
+- Xinyi Ni, Guanlin Liu and Lifeng Lai, "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." The 41st International Conference on Machine Learning (ICML). 2024. 
+- Xinyi Ni and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2022.
+- Xinyi Ni and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." 2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022.
+
 
 Academic Activities
 ======
+**Conference Reviewer**
+The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
 **Journal Invited Reviwer**
 IEEE Transactions on Mobile Computing
+**Workshop**
+2024 UCDavis ECExpo
+2023 UCDavis ECExpo
