@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : nixinyi1997@gmail.com
+google_site_verification : xyni.maxxx@gmail.com
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinyi Ni"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
-  location         : "United States"
-  employer         : "UC Davis"
+  bio              : "PhD Candidate at UCDavis"
+  #location         : "United States"
+  #employer         : "UC Davis"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en&oi=ao"
-  email            : nixinyi1997@gmail.com
+  email            : xyni.maxxx@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Xinyi-Ni-4"
   uri              :
   bitbucket        :
