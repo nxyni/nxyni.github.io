@@ -15,9 +15,10 @@ I received the B.E. degree in Information Engineering from Zhejiang University, 
 
 Publications
 ======
-- Xinyi Ni, Guanlin Liu and Lifeng Lai, "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." 2024 41st International Conference on Machine Learning (ICML). 2024. [Paper]
+- Xinyi Ni, Guanlin Liu and Lifeng Lai, "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." 2024 41st International Conference on Machine Learning (ICML). 2024. [Paper](https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en)
 - Xinyi Ni and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9929368)
 - Xinyi Ni and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." 2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/10052026)
+- Xinyi Ni and Lifeng Lai. "EVaR Optimization for Risk-Sensitive Reinforcement Learning." 2021. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2022/02/paper_v13.pdf)
 
 
 Academic Activities
