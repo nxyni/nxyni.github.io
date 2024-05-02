@@ -23,9 +23,11 @@ Publications
 Academic Activities
 ======
 **Conference Reviewer**
-The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
+- The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
+
 **Journal Invited Reviwer**
-IEEE Transactions on Mobile Computing
+- IEEE Transactions on Mobile Computing
+  
 **Workshop**
-2024 UCDavis ECExpo
-2023 UCDavis ECExpo
+- 2024 UCDavis ECExpo
+- 2023 UCDavis ECExpo
