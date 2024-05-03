@@ -24,7 +24,7 @@ Publications
 Academic Activities
 ======
 **Reviewer**
-- The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)
+- AAAI Conference on Artificial Intelligence
 - IEEE Transactions on Mobile Computing
   
 **Workshop**
