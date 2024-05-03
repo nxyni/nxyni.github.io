@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at UC Davis with guidance from [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My current research focuses on proposing risk-sensitive reinforcement learning algorithms and analyzing the convergence as well as sample complexity. I am also interested in developing robust algorithms for reinforcement learning against attack, model uncertainty, etc.
+I am currently a Ph.D. candidate at UC Davis with guidance from [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research interests lie in risk-sensitive reinforcement learning, including algorithm efficiency, sample complexity and robustness. In particular, I have developed risk-sensitive RL algorithms based on new risk measures. On the other hand, I have also explored risk-sensitive RL under different setups, including the reward-free framework and with human feedback.
 
 I received the B.E. degree in Information Engineering from Zhejiang University, Hangzhou, China in 2019. 
 
