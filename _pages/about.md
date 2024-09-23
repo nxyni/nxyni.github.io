@@ -32,5 +32,6 @@ Academic Activities
 - 2024 UCDavis ECExpo
 - 2023 UCDavis ECExpo
 
-**Work Experience**
+Work Experience
+======
 - Researcher Intern at Xbox Gaming AI, Microsoft, 2024 Summer
