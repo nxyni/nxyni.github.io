@@ -16,7 +16,7 @@ I received the B.E. degree in Information Engineering from Zhejiang University, 
 Publications
 ======
 - **Xinyi Ni**, Guanlin Liu and Lifeng Lai. "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." 2024 41st International Conference on Machine Learning (ICML). 2024. [Paper](https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en)
-- **Xinyi Ni** and Lifeng Lai. "Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk." arXiv preprint arXiv:2405.01718 (2024). [Paper](https://arxiv.org/abs/2405.01718)
+- **Xinyi Ni** and Lifeng Lai. "Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk." IEEE Information Theory Workshop (ITW) 2024. [Paper](https://arxiv.org/abs/2405.01718)
 - **Xinyi Ni** and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." 2022 58th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9929368)
 - **Xinyi Ni** and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." 2022 56th Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/10052026)
 - **Xinyi Ni** and Lifeng Lai. "EVaR Optimization for Risk-Sensitive Reinforcement Learning." 2021. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2022/02/paper_v13.pdf)
@@ -31,3 +31,6 @@ Academic Activities
 **Workshop**
 - 2024 UCDavis ECExpo
 - 2023 UCDavis ECExpo
+
+**Work Experience**
+- Researcher Intern at Xbox Gaming Ai, Microsoft, 2024 Summer
