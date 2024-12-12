@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyi Ni"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at UCDavis"
+  #bio              : "PhD "
   #location         : "United States"
   #employer         : "UC Davis"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xinyi-ni"
+  linkedin         : "https://www.linkedin.com/in/xinyi-ni/"
   orcid            :
   pinterest        :
   soundcloud       :
