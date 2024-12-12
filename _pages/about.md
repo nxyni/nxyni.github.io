@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Electrical and Computer Engineering from the University of California, Davis, in December 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on developing **risk-sensitive reinforcement learning (RL)** algorithms, with an emphasis on efficiency, sample complexity, and robustness. I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). 
+I earned my Ph.D. in Electrical and Computer Engineering from the University of California, Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on developing **risk-sensitive reinforcement learning (RL)** algorithms, with an emphasis on efficiency, sample complexity, and robustness. I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). 
 
 In Summer 2024, I interned with the Gaming AI team at Microsoft under guidance from [Andrea Treviño Gavito](https://www.linkedin.com/in/andrea-trevino-gavito/) and [Chuyang Ke](https://scholar.google.com/citations?user=ITt3x3MAAAAJ&hl=en), where I explored state-of-the-art AI techniques to gaming. My work primarily involved leveraging **large language model (LLM) reasoning** and causal analysis to enhance game testing.
 
