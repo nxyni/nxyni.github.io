@@ -34,7 +34,3 @@ Academic Activities
 - International Conference on Machine Learning (ICML)
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing
-  
-**Workshop**
-- 2024 UCDavis ECExpo
-- 2023 UCDavis ECExpo
