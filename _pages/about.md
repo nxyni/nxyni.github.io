@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Electrical and Computer Engineering from the University of California, Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on developing **risk-sensitive reinforcement learning (RL)** algorithms, with an emphasis on efficiency, sample complexity, and robustness. I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). 
+I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). During the summer of 2024, I interned with the Gaming AI team at Microsoft, mentored by [Andrea Treviño Gavito](https://www.linkedin.com/in/andrea-trevino-gavito/) and [Chuyang Ke](https://scholar.google.com/citations?user=ITt3x3MAAAAJ&hl=en). There, I applied **large language model (LLM) reasoning** and **causal analysis** to innovate on AI-driven game testing techniques.
 
-In Summer 2024, I interned with the Gaming AI team at Microsoft under guidance from [Andrea Treviño Gavito](https://www.linkedin.com/in/andrea-trevino-gavito/) and [Chuyang Ke](https://scholar.google.com/citations?user=ITt3x3MAAAAJ&hl=en), where I explored state-of-the-art AI techniques to gaming. My work primarily involved leveraging **large language model (LLM) reasoning** and causal analysis to enhance game testing.
-
-I received my bachelor's degree in Information Engineering from Zhejiang University, Hangzhou, China, in 2019. During my undergraduate studies, I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on applying **deep learning (DL)** techniques to medical image diagnosis.
+I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis.
 
 
 Preprint
