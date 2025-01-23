@@ -15,6 +15,7 @@ I received my Bachelor's degree in Information Engineering from Zhejiang Univers
 
 Preprint
 ======
+- **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with Coherent Risk Measures." Ph.D Thesis. 2025. University of California, Davis. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2025/01/XinyiNi_thesis.pdf)
 - **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with $\phi$-Divergence-Risk." IEEE Transaction on Information Theory. 2024. Submitted. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2024/11/TIT_submission.pdf)
 
 Publications
