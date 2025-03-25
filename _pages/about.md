@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Machine Learning Scientist in industry, with continued interest in academic research. If you have exciting ideas or potential collaboration opportunities, feel free to reach out. I’m always happy to connect and explore new directions.
 
-I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). During the summer of 2024, I interned with the Gaming AI team at Microsoft, mentored by [Andrea Treviño Gavito](https://www.linkedin.com/in/andrea-trevino-gavito/) and [Chuyang Ke](https://scholar.google.com/citations?user=ITt3x3MAAAAJ&hl=en). There, I applied **large language model (LLM) reasoning** and **causal analysis** to innovate on AI-driven game testing techniques.
+I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). During my internship at Microsoft, I applied **large language model (LLM) reasoning** and **causal analysis** to innovate on AI-driven game testing techniques.
 
-I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis.
+I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis and autonomous driving.
 
 
 Preprint
@@ -33,3 +34,4 @@ Academic Activities
 - International Conference on Machine Learning (ICML)
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing
+- IEEE Control Systems Letters 
