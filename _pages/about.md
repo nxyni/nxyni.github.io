@@ -13,13 +13,9 @@ I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [P
 
 I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis and autonomous driving.
 
-
-Preprint
-======
-- **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with Coherent Risk Measures." Ph.D Thesis. 2025. University of California, Davis. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2025/01/XinyiNi_thesis.pdf)
-
 Publications
 ======
+- **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with Coherent Risk Measures." Ph.D Thesis. 2025. University of California, Davis. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2025/01/XinyiNi_thesis.pdf)
 - **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with $\phi$-Divergence-Risk." IEEE Transaction on Information Theory. 2025. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2024/11/TIT_submission.pdf)
 - **Xinyi Ni**, Guanlin Liu and Lifeng Lai. "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." International Conference on Machine Learning (ICML). 2024. [Paper](https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en)
 - **Xinyi Ni** and Lifeng Lai. "Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk." IEEE Information Theory Workshop (ITW) 2024. [Paper](https://arxiv.org/abs/2405.01718)
