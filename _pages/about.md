@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Machine Learning Scientist in industry, with continued interest in academic research. If you have exciting ideas or potential collaboration opportunities, feel free to reach out. 
+I am currently a Machine Learning Scientist working on Recommendation System, with continued interest in AI research. If you have exciting ideas or potential collaboration opportunities, feel free to reach out. 
 
 I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**). During my internship at Microsoft, I applied **large language model (LLM) reasoning** and **causal analysis** to innovate on AI-driven game testing techniques.
 
@@ -27,6 +27,7 @@ Publications
 Academic Activities
 ======
 **Reviewer**
+- AAAI Conference on Artificial Intelligence
 - International Conference on Machine Learning (ICML)
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing 
