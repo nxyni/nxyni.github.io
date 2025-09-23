@@ -27,8 +27,9 @@ Publications
 Academic Activities
 ======
 **Reviewer**
-- AAAI Conference on Artificial Intelligence
-- International Conference on Machine Learning (ICML)
+- International Conference on Learning Representations (ICLR 2026)
+- AAAI Conference on Artificial Intelligence (AAAI 2026)
+- International Conference on Machine Learning (ICML 2025)
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing 
 - IEEE Control Systems Letters 
