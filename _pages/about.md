@@ -29,10 +29,10 @@ Preprint
 Academic Activities
 ======
 **Conference Reviewer**
-- IEEE International Symposium on Information Theory (ISIT 2026)
-- International Conference on Learning Representations (ICLR 2026)
-- AAAI Conference on Artificial Intelligence (AAAI 2026)
-- International Conference on Machine Learning (ICML 2025)
+- IEEE International Symposium on Information Theory (ISIT)
+- International Conference on Learning Representations (ICLR)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Conference on Machine Learning (ICML)
 
 **Journal Reviewer**
 - IEEE Transactions on Information Theory
