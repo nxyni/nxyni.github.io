@@ -13,7 +13,7 @@ I received my Bachelor's degree in Information Engineering from Zhejiang Univers
 
 Publications
 ======
-- **Xinyi Ni** and Lifeng Lai. "Provably Efficient Risk-Sensitive Reinforcement Learning with Human Feedback." IEEE International Symposium on Information Theory (ISIT). 2026. To be appear.
+- **Xinyi Ni** and Lifeng Lai. "Provably Efficient Risk-Sensitive Reinforcement Learning with Human Feedback." IEEE International Symposium on Information Theory (ISIT). 2026. Paper.
 - **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with $\phi$-Divergence-Risk." IEEE Transaction on Information Theory (TIT). 2025. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2024/11/TIT_submission.pdf)
 - **Xinyi Ni**, Guanlin Liu and Lifeng Lai. "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." International Conference on Machine Learning (ICML). 2024. [Paper](https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en)
 - **Xinyi Ni** and Lifeng Lai. "Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk." IEEE Information Theory Workshop (ITW) 2024. [Paper](https://arxiv.org/abs/2405.01718)
