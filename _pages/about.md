@@ -34,6 +34,7 @@ Academic Activities
 - Conference on Neural Information Processing Systems (NeurIPS)
 - AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE International Symposium on Information Theory (ISIT)
+- IEEE Conference on Decision and Control (CDC)
 
 **Journal Reviewer**
 - IEEE Transactions on Information Theory
