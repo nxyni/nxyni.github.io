@@ -29,12 +29,14 @@ Preprint
 Academic Activities
 ======
 **Conference Reviewer**
-- IEEE International Symposium on Information Theory (ISIT)
 - International Conference on Learning Representations (ICLR)
-- AAAI Conference on Artificial Intelligence (AAAI)
 - International Conference on Machine Learning (ICML)
+- Conference on Neural Information Processing Systems (NeurIPS)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- IEEE International Symposium on Information Theory (ISIT)
 
 **Journal Reviewer**
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing 
-- IEEE Control Systems Letters 
+- IEEE Control Systems Letters
+- Reliability Engineering & System Safety
