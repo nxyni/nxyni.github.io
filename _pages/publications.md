@@ -7,6 +7,15 @@ author_profile: true
 
 <p class="page-intro">Research on risk-sensitive reinforcement learning, efficient exploration, and learning from human feedback.</p>
 
+## Submitted manuscript
+
+<div class="publication-list">
+  <article class="publication">
+    <h3><a href="https://arxiv.org/abs/2609.38938">Robust Risk-Sensitive Reinforcement Learning from Corrupted Human Feedback</a></h3>
+    <p>Xinyi Ni and Lifeng Lai · Submitted to IEEE Journal on Selected Areas in Information Theory (JSAIT), 2026 · arXiv:2609.38938</p>
+  </article>
+</div>
+
 ## Peer-reviewed papers
 
 <div class="publication-list">
