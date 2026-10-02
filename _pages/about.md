@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "Machine learning systems and risk-sensitive reinforcement learning"
 author_profile: true
 redirect_from:
