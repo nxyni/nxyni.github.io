@@ -1,16 +1,16 @@
 ---
 permalink: /
-excerpt: "Machine learning systems and risk-sensitive reinforcement learning"
+title: "Biography"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="home-intro">
-  <p class="home-intro__lead">I build industrial machine learning systems and study risk-sensitive reinforcement learning.</p>
-  <p>My research focuses on efficient learning, robustness, and learning from human feedback. I received my Ph.D. in Electrical and Computer Engineering from UC Davis in 2024, advised by <a href="https://scholar.google.com/citations?user=gOhaCfUAAAAJ&amp;hl=en">Prof. Lifeng Lai</a>.</p>
-</div>
+I am currently building industrial ML systems. I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**).
+
+I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis and autonomous driving.
 
 ## Selected work
 
