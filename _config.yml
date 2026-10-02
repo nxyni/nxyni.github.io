@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Xinyi Ni / Homepage"
 title_separator          : "-"
 name                     : &name "Xinyi Ni"
-description              : &description "Personal description"
+description              : &description "Machine learning systems and risk-sensitive reinforcement learning"
 url                      : https://nxyni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://nxyni.github.io"
+repository               : "nxyni/nxyni.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -87,8 +87,8 @@ author:
   #employer         : "UC Davis"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en&oi=ao"
-  email            : xyni.maxxx@gmail.com
-  researchgate     : "https://www.researchgate.net/profile/Xinyi-Ni-4"
+  email            :
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xinyi-ni/"
+  linkedin         : "xinyi-ni"
   orcid            :
   pinterest        :
   soundcloud       :

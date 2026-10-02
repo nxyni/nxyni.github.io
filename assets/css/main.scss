@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Focused homepage and publication layouts */
+.home-intro { max-width: 46rem; margin: 0 0 3rem; }
+.home-intro__eyebrow { color: #497c88; font-size: .78rem !important; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; }
+.home-intro__lead { font-size: clamp(1.35rem, 2.2vw, 2rem) !important; line-height: 1.35; font-weight: 600; color: #243544; }
+.featured-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.featured-card { padding: 1.3rem; border: 1px solid #dde6e9; border-radius: 12px; background: #fbfcfc; }
+.featured-card__meta { color: #52717a; font-size: .78rem; font-weight: 700; letter-spacing: .02em; }
+.page__content .featured-card h3 { margin: .55rem 0 .65rem; font-size: 1.1rem; line-height: 1.35; }
+.page__content .featured-card h3 a { text-decoration: none; }
+.page__content .featured-card p { margin: 0; color: #52616b; font-size: .92rem; line-height: 1.55; }
+.all-publications { margin-top: 1.5rem !important; font-weight: 600; }
+.page-intro { max-width: 43rem; color: #52616b; }
+.publication-list { margin: 1rem 0 2.5rem; }
+.publication { padding: 1rem 0; border-bottom: 1px solid #e6ebed; }
+.page__content .publication h3 { margin: 0 0 .35rem; font-size: 1.05rem; line-height: 1.4; }
+.page__content .publication h3 a { text-decoration: none; }
+.page__content .publication p { margin: 0; color: #60707a; font-size: .88rem; }
+@media (max-width: 650px) { .featured-grid { grid-template-columns: 1fr; } }
