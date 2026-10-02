@@ -1,26 +1,37 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "About me"
+title: "Xinyi Ni"
+excerpt: "Machine learning systems and risk-sensitive reinforcement learning"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am currently building industrial ML systems. I completed my Ph.D. in ECE at UC Davis in Dec 2024, under the supervision of [Prof. Lifeng Lai](https://scholar.google.com/citations?user=gOhaCfUAAAAJ&hl=en). My research focuses on **risk-sensitive reinforcement learning (RL)**, enhancing algorithmic efficiency, sample complexity, and robustness.I also explored risk-sensitive RL in diverse settings, including reward-free frameworks and with human feedback (**RLHF**).
 
-I received my Bachelor's degree in Information Engineering from Zhejiang University, China, in 2019. I collaborated with [Prof. Jiangtao Huangfu](https://person.zju.edu.cn/en/huangfujt) on integrating **deep learning (DL)** into medical image diagnosis and autonomous driving.
+<div class="home-intro">
+  <p class="home-intro__eyebrow">Machine learning · Reinforcement learning</p>
+  <p class="home-intro__lead">I build industrial machine learning systems and study risk-sensitive reinforcement learning.</p>
+  <p>My research focuses on efficient learning, robustness, and learning from human feedback. I received my Ph.D. in Electrical and Computer Engineering from UC Davis in 2024, advised by <a href="https://scholar.google.com/citations?user=gOhaCfUAAAAJ&amp;hl=en">Prof. Lifeng Lai</a>.</p>
+</div>
 
-Publications
-======
-- **Xinyi Ni** and Lifeng Lai. "Provably Efficient Risk-Sensitive Reinforcement Learning with Human Feedback." IEEE International Symposium on Information Theory (ISIT). 2026. [Paper](https://nxyni.github.io/files/isit2026-risk-sensitive-rlhf.pdf).
-- **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with $\phi$-Divergence-Risk." IEEE Transaction on Information Theory (TIT). 2025. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2024/11/TIT_submission.pdf)
-- **Xinyi Ni**, Guanlin Liu and Lifeng Lai. "Risk-Sensitive Reward-Free Reinforcement Learning with CVaR." International Conference on Machine Learning (ICML). 2024. [Paper](https://scholar.google.com/citations?user=30opUTcAAAAJ&hl=en)
-- **Xinyi Ni** and Lifeng Lai. "Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk." IEEE Information Theory Workshop (ITW) 2024. [Paper](https://arxiv.org/abs/2405.01718)
-- **Xinyi Ni** and Lifeng Lai. "Policy Gradient Based Entropic-VaR Optimization in Risk-Sensitive Reinforcement Learning." Allerton Conference on Communication, Control, and Computing. IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9929368)
-- **Xinyi Ni** and Lifeng Lai. "Risk-sensitive reinforcement learning via Entropic-VaR optimization." Asilomar Conference on Signals, Systems, and Computers. IEEE, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/10052026)
+## Selected work
 
-Preprint
-======
-- **Xinyi Ni** and Lifeng Lai. "Risk-Sensitive Reinforcement Learning with Coherent Risk Measures." Ph.D Thesis. 2025. University of California, Davis. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2025/01/XinyiNi_thesis.pdf)
-- **Xinyi Ni** and Lifeng Lai. "EVaR Optimization for Risk-Sensitive Reinforcement Learning." UC Davis, 2021. [Paper](https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2022/02/paper_v13.pdf)
+<div class="featured-grid">
+  <article class="featured-card">
+    <span class="featured-card__meta">ISIT 2026 · RLHF</span>
+    <h3><a href="/files/isit2026-risk-sensitive-rlhf.pdf">Provably Efficient Risk-Sensitive Reinforcement Learning with Human Feedback</a></h3>
+    <p>Online RLHF with a CVaR objective and provable efficiency guarantees.</p>
+  </article>
+  <article class="featured-card">
+    <span class="featured-card__meta">IEEE Transactions on Information Theory 2025 · Risk-sensitive RL</span>
+    <h3><a href="https://faculty.engineering.ucdavis.edu/lai/wp-content/uploads/sites/38/2024/11/TIT_submission.pdf">Risk-Sensitive Reinforcement Learning with ϕ-Divergence-Risk</a></h3>
+    <p>A policy-gradient approach for a family of risk-sensitive objectives.</p>
+  </article>
+  <article class="featured-card">
+    <span class="featured-card__meta">ICML 2024 · Exploration</span>
+    <h3><a href="https://proceedings.mlr.press/v235/ni24c.html">Risk-Sensitive Reward-Free Reinforcement Learning with CVaR</a></h3>
+    <p>Reward-free exploration for risk-sensitive policy learning.</p>
+  </article>
+</div>
+
+<p class="all-publications"><a href="/publications/">View all publications →</a></p>
