@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyi Ni"
+title: ""
 excerpt: "Machine learning systems and risk-sensitive reinforcement learning"
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <p class="home-intro__eyebrow">Machine learning · Reinforcement learning</p>
   <p class="home-intro__lead">I build industrial machine learning systems and study risk-sensitive reinforcement learning.</p>
   <p>My research focuses on efficient learning, robustness, and learning from human feedback. I received my Ph.D. in Electrical and Computer Engineering from UC Davis in 2024, advised by <a href="https://scholar.google.com/citations?user=gOhaCfUAAAAJ&amp;hl=en">Prof. Lifeng Lai</a>.</p>
 </div>
